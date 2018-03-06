@@ -14,6 +14,6 @@ class Transfer
     sender.valid? && receiver.valid?
   end
 
-def ex
+
 
 end
